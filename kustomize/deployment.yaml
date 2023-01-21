@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-deposit
-        image: jeanflores2c93/aforo255-nodejs-deposit:1
+        image: jeanflores2c93/aforo255-nodejs-deposit:2
         ports:
         - containerPort: 5003
         env:
